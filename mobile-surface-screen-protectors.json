@@ -1,0 +1,3304 @@
+{
+    "templates": [],
+    "mods": {
+        "filter": {
+            "tItemType": "nt_filter",
+            "filterItems": [
+                {
+                    "name": "category",
+                    "unfoldRow": "-1",
+                    "title": "Category",
+                    "urlKey": "category",
+                    "hidden": false,
+                    "locked": false,
+                    "type": "category",
+                    "uniqueName": "category",
+                    "value": "mobile-surface-screen-protectors",
+                    "displayValue": "Screen Protectors",
+                    "options": [
+                        {
+                            "url": "/accessories-fashion/?q=camera",
+                            "title": "Fashion Mobile Accessories",
+                            "value": "accessories-fashion"
+                        },
+                        {
+                            "url": "/measuring-levelling/?q=camera",
+                            "title": "Measuring & Levelling",
+                            "value": "measuring-levelling"
+                        },
+                        {
+                            "url": "/mobile-surface-screen-protectors/?q=camera",
+                            "title": "Phone Screen Protectors",
+                            "value": "mobile-surface-screen-protectors"
+                        },
+                        {
+                            "url": "/mobile-cases-covers/?q=camera",
+                            "title": "Mobile Phone Cases",
+                            "value": "mobile-cases-covers"
+                        },
+                        {
+                            "url": "/phone-camera-flash-lights/?q=camera",
+                            "title": "Phone Camera Flash Lights",
+                            "value": "phone-camera-flash-lights"
+                        },
+                        {
+                            "url": "/sport-action-camera-mounts/?q=camera",
+                            "title": "Mounts",
+                            "value": "sport-action-camera-mounts"
+                        },
+                        {
+                            "url": "/lens-caps/?q=camera",
+                            "title": "Lens Caps",
+                            "value": "lens-caps"
+                        },
+                        {
+                            "url": "/camera-screen-guards/?q=camera",
+                            "title": "Camera Screen Protector",
+                            "value": "camera-screen-guards"
+                        },
+                        {
+                            "url": "/selfie-sticks/?q=camera",
+                            "title": "Selfie Sticks",
+                            "value": "selfie-sticks"
+                        },
+                        {
+                            "url": "/battery-chargers/?q=camera",
+                            "title": "Battery Chargers",
+                            "value": "battery-chargers"
+                        },
+                        {
+                            "url": "/wireless-speakers/?q=camera",
+                            "title": "Phone Docks & Stands",
+                            "value": "wireless-speakers"
+                        },
+                        {
+                            "url": "/security-surveillance/?q=camera",
+                            "title": "IP Security Cameras",
+                            "value": "security-surveillance"
+                        },
+                        {
+                            "url": "/smart-watches/?q=camera",
+                            "title": "SmartWatches",
+                            "value": "smart-watches"
+                        },
+                        {
+                            "url": "/phone-micro-sd-cards/?q=camera",
+                            "title": "Micro SD Cards",
+                            "value": "phone-micro-sd-cards"
+                        },
+                        {
+                            "url": "/camera-batteries/?q=camera",
+                            "title": "Camera Batteries",
+                            "value": "camera-batteries"
+                        },
+                        {
+                            "url": "/portable-audio-microphones/?q=camera",
+                            "title": "Microphones",
+                            "value": "portable-audio-microphones"
+                        },
+                        {
+                            "url": "/screw-nut-drivers/?q=camera",
+                            "title": "Screw & Nut Drivers",
+                            "value": "screw-nut-drivers"
+                        },
+                        {
+                            "url": "/map-holders/?q=camera",
+                            "title": "Mount Holders",
+                            "value": "map-holders"
+                        },
+                        {
+                            "url": "/cctv-cameras/?q=camera",
+                            "title": "CCTV Security Cameras",
+                            "value": "cctv-cameras"
+                        },
+                        {
+                            "url": "/camera-tripods/?q=camera",
+                            "title": "Tripods",
+                            "value": "camera-tripods"
+                        }
+                    ]
+                },
+                {
+                    "name": "brand",
+                    "unfoldRow": "-1",
+                    "title": "Brand",
+                    "urlKey": "ppath",
+                    "hidden": false,
+                    "locked": false,
+                    "type": "brand",
+                    "uniqueName": "20000",
+                    "options": [
+                        {
+                            "title": "Hontinga",
+                            "value": ""
+                        },
+                        {
+                            "title": "Lereach",
+                            "value": "lereach-123915691"
+                        },
+                        {
+                            "title": "UCUC",
+                            "value": ""
+                        },
+                        {
+                            "title": "Ezviz",
+                            "value": "ezviz"
+                        },
+                        {
+                            "title": "FELMYST",
+                            "value": ""
+                        },
+                        {
+                            "title": "PULUZ",
+                            "value": "puluz"
+                        },
+                        {
+                            "title": "lthmy",
+                            "value": ""
+                        },
+                        {
+                            "title": "Tiandy",
+                            "value": ""
+                        },
+                        {
+                            "title": "HIKVISION",
+                            "value": "hikvision"
+                        },
+                        {
+                            "title": "hoco",
+                            "value": "hoco"
+                        },
+                        {
+                            "title": "BLES",
+                            "value": "bles"
+                        },
+                        {
+                            "title": "GoPro",
+                            "value": "gopro"
+                        },
+                        {
+                            "title": "UNIVIEW",
+                            "value": "uniview"
+                        },
+                        {
+                            "title": "Bushnell",
+                            "value": "bushnell"
+                        },
+                        {
+                            "title": "ESR",
+                            "value": "esr"
+                        },
+                        {
+                            "title": "OPPO",
+                            "value": "oppo"
+                        },
+                        {
+                            "title": "ZHIYUN",
+                            "value": "zhiyun"
+                        },
+                        {
+                            "title": "LENUO",
+                            "value": "lenuo"
+                        },
+                        {
+                            "title": "Maxell",
+                            "value": "maxell"
+                        },
+                        {
+                            "title": "Leweisi",
+                            "value": ""
+                        },
+                        {
+                            "title": "Insta360",
+                            "value": "insta360"
+                        },
+                        {
+                            "title": "SanDisk",
+                            "value": "sandisk"
+                        },
+                        {
+                            "title": "Canon",
+                            "value": "canon"
+                        },
+                        {
+                            "title": "Lenovo",
+                            "value": "lenovo"
+                        },
+                        {
+                            "title": "Digicom",
+                            "value": "digicom"
+                        },
+                        {
+                            "title": "TVT",
+                            "value": ""
+                        },
+                        {
+                            "title": "CP Plus",
+                            "value": "cp-plus"
+                        },
+                        {
+                            "title": "Dahua Technology",
+                            "value": "dahua-technology"
+                        }
+                    ]
+                },
+                {
+                    "name": "service",
+                    "unfoldRow": "4",
+                    "title": "Service & Promotion",
+                    "urlKey": "service",
+                    "hidden": false,
+                    "locked": false,
+                    "type": "multiple",
+                    "uniqueName": "service",
+                    "options": [
+                        {
+                            "title": "Mall",
+                            "value": "mall",
+                            "activeIcon": "",
+                            "normalIcon": ""
+                        },
+                        {
+                            "title": "Best Price Guaranteed",
+                            "value": "BPG",
+                            "activeIcon": "",
+                            "normalIcon": ""
+                        },
+                        {
+                            "title": "Free Delivery",
+                            "value": "Free_Delivery",
+                            "activeIcon": "",
+                            "normalIcon": ""
+                        },
+                        {
+                            "title": "Voucher Max",
+                            "value": "Voucher_Max",
+                            "activeIcon": "",
+                            "normalIcon": ""
+                        },
+                        {
+                            "title": "Rebuilding this Dashain",
+                            "value": "PayDay_Campaign",
+                            "activeIcon": "",
+                            "normalIcon": ""
+                        },
+                        {
+                            "title": " Buy More Save More",
+                            "value": "bundleSave",
+                            "activeIcon": "",
+                            "normalIcon": ""
+                        },
+                        {
+                            "title": "Choice Any 3",
+                            "value": "choice",
+                            "activeIcon": "",
+                            "normalIcon": ""
+                        },
+                        {
+                            "title": "Gems",
+                            "value": "coins",
+                            "activeIcon": "",
+                            "normalIcon": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "location",
+                    "unfoldRow": "3",
+                    "title": "Shipped From",
+                    "urlKey": "location",
+                    "hidden": false,
+                    "locked": false,
+                    "type": "location",
+                    "uniqueName": "location",
+                    "value": [],
+                    "options": [
+                        {
+                            "title": "Bagmati Province",
+                            "value": "Bagmati Province"
+                        },
+                        {
+                            "title": "Madhesh Province",
+                            "value": "Madhesh Province"
+                        },
+                        {
+                            "title": "Lumbini Province",
+                            "value": "Lumbini Province"
+                        },
+                        {
+                            "title": "Koshi Province",
+                            "value": "Koshi Province"
+                        },
+                        {
+                            "title": "Gandaki Province",
+                            "value": "Gandaki Province"
+                        },
+                        {
+                            "title": "Overseas",
+                            "value": "Overseas"
+                        },
+                        {
+                            "title": "Local",
+                            "value": "Local"
+                        }
+                    ]
+                },
+                {
+                    "showMin": "Min",
+                    "showMax": "Max",
+                    "name": "price",
+                    "unfoldRow": "2",
+                    "title": "Price",
+                    "urlKey": "price",
+                    "hidden": false,
+                    "locked": false,
+                    "type": "price",
+                    "uniqueName": "price"
+                },
+                {
+                    "name": "rating",
+                    "unfoldRow": "2",
+                    "title": "Rating",
+                    "urlKey": "rating",
+                    "hidden": false,
+                    "locked": false,
+                    "type": "rating",
+                    "uniqueName": "rating",
+                    "value": "0"
+                },
+                {
+                    "name": "attribute",
+                    "unfoldRow": "-1",
+                    "title": "Delivery Option Standard",
+                    "urlKey": "ppath",
+                    "hidden": false,
+                    "locked": false,
+                    "type": "multiple",
+                    "uniqueName": "11",
+                    "options": [
+                        {
+                            "title": "Yes",
+                            "value": "11:2110"
+                        },
+                        {
+                            "title": "No",
+                            "value": "11:2401"
+                        }
+                    ]
+                },
+                {
+                    "name": "attribute",
+                    "unfoldRow": "-1",
+                    "title": "Warranty Type",
+                    "urlKey": "ppath",
+                    "hidden": false,
+                    "locked": false,
+                    "type": "multiple",
+                    "uniqueName": "7",
+                    "options": [
+                        {
+                            "title": "Seller Warranty",
+                            "value": "7:123708611"
+                        },
+                        {
+                            "title": "No Warranty",
+                            "value": "7:4498"
+                        },
+                        {
+                            "title": "Brand Warranty",
+                            "value": "7:202300"
+                        }
+                    ]
+                },
+                {
+                    "name": "attribute",
+                    "unfoldRow": "-1",
+                    "title": "Warranty Period",
+                    "urlKey": "ppath",
+                    "hidden": false,
+                    "locked": false,
+                    "type": "multiple",
+                    "uniqueName": "8",
+                    "options": [
+                        {
+                            "title": "26",
+                            "value": "8:2408"
+                        },
+                        {
+                            "title": "42",
+                            "value": "8:2409"
+                        },
+                        {
+                            "title": "112",
+                            "value": "8:7"
+                        },
+                        {
+                            "title": "46",
+                            "value": "8:2410"
+                        },
+                        {
+                            "title": "28",
+                            "value": "8:2411"
+                        },
+                        {
+                            "title": "44",
+                            "value": "8:2419"
+                        },
+                        {
+                            "title": "1 Year",
+                            "value": "8:4447"
+                        },
+                        {
+                            "title": "40",
+                            "value": "8:2420"
+                        },
+                        {
+                            "title": "6 Months",
+                            "value": "8:4456"
+                        },
+                        {
+                            "title": "1",
+                            "value": "8:3918"
+                        },
+                        {
+                            "title": "38",
+                            "value": "8:2426"
+                        },
+                        {
+                            "title": "Life Time Warranty",
+                            "value": "8:4502"
+                        },
+                        {
+                            "title": "36",
+                            "value": "8:2427"
+                        },
+                        {
+                            "title": "34",
+                            "value": "8:2425"
+                        },
+                        {
+                            "title": "30",
+                            "value": "8:2428"
+                        },
+                        {
+                            "title": "1 Month",
+                            "value": "8:4463"
+                        },
+                        {
+                            "title": "32",
+                            "value": "8:2433"
+                        },
+                        {
+                            "title": "37",
+                            "value": "8:2450"
+                        },
+                        {
+                            "title": "2 Years",
+                            "value": "8:4446"
+                        },
+                        {
+                            "title": "3 Months",
+                            "value": "8:4462"
+                        },
+                        {
+                            "title": "39",
+                            "value": "8:2449"
+                        },
+                        {
+                            "title": "2 Months",
+                            "value": "8:4461"
+                        },
+                        {
+                            "title": "27",
+                            "value": "8:2453"
+                        },
+                        {
+                            "title": "5 Years",
+                            "value": "8:4454"
+                        },
+                        {
+                            "title": "25",
+                            "value": "8:2452"
+                        },
+                        {
+                            "title": "24",
+                            "value": "8:2451"
+                        },
+                        {
+                            "title": "11",
+                            "value": "8:2493"
+                        },
+                        {
+                            "title": "7",
+                            "value": "8:2503"
+                        },
+                        {
+                            "title": "13",
+                            "value": "8:2489"
+                        }
+                    ]
+                },
+                {
+                    "name": "attribute",
+                    "unfoldRow": "-1",
+                    "title": "Color Family",
+                    "urlKey": "ppath",
+                    "hidden": false,
+                    "locked": false,
+                    "type": "multiple",
+                    "uniqueName": "30129",
+                    "options": [
+                        {
+                            "title": "Black",
+                            "value": "30129:3731"
+                        },
+                        {
+                            "title": "Clear",
+                            "value": "30129:3750"
+                        },
+                        {
+                            "title": "White",
+                            "value": "30129:3743"
+                        },
+                        {
+                            "title": "Multicolor",
+                            "value": "30129:3759"
+                        },
+                        {
+                            "title": "Blue",
+                            "value": "30129:3732"
+                        },
+                        {
+                            "title": "Red",
+                            "value": "30129:1577"
+                        },
+                        {
+                            "title": "Green",
+                            "value": "30129:3736"
+                        },
+                        {
+                            "title": "Pink",
+                            "value": "30129:3739"
+                        },
+                        {
+                            "title": "Purple",
+                            "value": "30129:3740"
+                        },
+                        {
+                            "title": "Silver",
+                            "value": "30129:3741"
+                        },
+                        {
+                            "title": "Orange",
+                            "value": "30129:3738"
+                        },
+                        {
+                            "title": "Grey",
+                            "value": "30129:3735"
+                        },
+                        {
+                            "title": "Gold",
+                            "value": "30129:3734"
+                        },
+                        {
+                            "title": "Yellow",
+                            "value": "30129:3744"
+                        },
+                        {
+                            "title": "Brown",
+                            "value": "30129:3733"
+                        },
+                        {
+                            "title": "Sand",
+                            "value": "30129:103073"
+                        },
+                        {
+                            "title": "Cyan",
+                            "value": "30129:13987"
+                        },
+                        {
+                            "title": "Multi",
+                            "value": "30129:19454"
+                        },
+                        {
+                            "title": "Neutral",
+                            "value": "30129:12645"
+                        },
+                        {
+                            "title": "Mint",
+                            "value": "30129:23347"
+                        },
+                        {
+                            "title": "Dark blue",
+                            "value": "30129:3775"
+                        },
+                        {
+                            "title": "Rose Gold",
+                            "value": "30129:21772"
+                        },
+                        {
+                            "title": "Navy Blue",
+                            "value": "30129:3785"
+                        },
+                        {
+                            "title": "Beige",
+                            "value": "30129:3737"
+                        },
+                        {
+                            "title": "Light green",
+                            "value": "30129:3790"
+                        },
+                        {
+                            "title": "Neo Bright",
+                            "value": "30129:147420"
+                        },
+                        {
+                            "title": "Army Green",
+                            "value": "30129:3780"
+                        },
+                        {
+                            "title": "Champagne",
+                            "value": "30129:3781"
+                        }
+                    ]
+                },
+                {
+                    "name": "attribute",
+                    "unfoldRow": "-1",
+                    "title": "Compatibility by Model",
+                    "urlKey": "ppath",
+                    "hidden": false,
+                    "locked": false,
+                    "type": "multiple",
+                    "uniqueName": "31030",
+                    "options": [
+                        {
+                            "title": "Other",
+                            "value": "31030:3976"
+                        },
+                        {
+                            "title": "Android",
+                            "value": "31030:3966"
+                        },
+                        {
+                            "title": "Samsung A24 4G",
+                            "value": "31030:126268213"
+                        },
+                        {
+                            "title": "Redmi 10c",
+                            "value": "31030:124661652"
+                        },
+                        {
+                            "title": "Redmi 13C",
+                            "value": "31030:127193662"
+                        },
+                        {
+                            "title": "OnePlus",
+                            "value": "31030:12944"
+                        },
+                        {
+                            "title": "Vivo Y22s",
+                            "value": "31030:124700216"
+                        },
+                        {
+                            "title": "Xiaomi Redmi Note",
+                            "value": "31030:13052"
+                        },
+                        {
+                            "title": "iPhone 14 Pro",
+                            "value": "31030:124661608"
+                        },
+                        {
+                            "title": "iPhone 11 Pro",
+                            "value": "31030:124317440"
+                        },
+                        {
+                            "title": "Apple iPhone SE",
+                            "value": "31030:13886"
+                        },
+                        {
+                            "title": "Universal",
+                            "value": "31030:4196"
+                        },
+                        {
+                            "title": "Poco M5",
+                            "value": "31030:124710836"
+                        },
+                        {
+                            "title": "Redmi 10",
+                            "value": "31030:124710831"
+                        },
+                        {
+                            "title": "Apple iPhone 14 Pro",
+                            "value": "31030:124659500"
+                        },
+                        {
+                            "title": "Samsung Galaxy A34 5G",
+                            "value": "31030:126268217"
+                        },
+                        {
+                            "title": "Samsung Galaxy S23 Ultra",
+                            "value": "31030:126268212"
+                        },
+                        {
+                            "title": "Vivo Y02",
+                            "value": "31030:127049014"
+                        },
+                        {
+                            "title": "HONOR X7a",
+                            "value": "31030:124702640"
+                        },
+                        {
+                            "title": "HONOR X9a",
+                            "value": "31030:124702641"
+                        },
+                        {
+                            "title": "Vivo V20",
+                            "value": "31030:124690810"
+                        },
+                        {
+                            "title": "iPhone 15 Pro Max",
+                            "value": "31030:127026634"
+                        },
+                        {
+                            "title": "iPhone 15 Plus",
+                            "value": "31030:127026633"
+                        },
+                        {
+                            "title": "HONOR X9",
+                            "value": "31030:124702638"
+                        },
+                        {
+                            "title": "Realme C55",
+                            "value": "31030:126288248"
+                        },
+                        {
+                            "title": "iPhone 11",
+                            "value": "31030:124661616"
+                        },
+                        {
+                            "title": "itel vision 3",
+                            "value": "31030:125826019"
+                        },
+                        {
+                            "title": "Oppo A16",
+                            "value": "31030:124702695"
+                        },
+                        {
+                            "title": "Samsung S21",
+                            "value": "31030:124661621"
+                        }
+                    ]
+                },
+                {
+                    "name": "attribute",
+                    "unfoldRow": "-1",
+                    "title": "Number Of Layers",
+                    "urlKey": "ppath",
+                    "hidden": false,
+                    "locked": false,
+                    "type": "multiple",
+                    "uniqueName": "40887",
+                    "options": [
+                        {
+                            "title": "3",
+                            "value": "40887:2682"
+                        },
+                        {
+                            "title": "5",
+                            "value": "40887:2490"
+                        },
+                        {
+                            "title": "2",
+                            "value": "40887:2679"
+                        },
+                        {
+                            "title": "1",
+                            "value": "40887:3918"
+                        }
+                    ]
+                }
+            ],
+            "filteredQuatity": "27859",
+            "filteredDoneText": "Product",
+            "title": "Search Filter",
+            "pos": 0
+        },
+        "listItems": [
+            {
+                "name": "Coopart New Rear Back Camera Glass Lens For Honor X7b CLK-LX1 CLK-LX2 CLK-LX3 Replacement With Adhesive Sticker",
+                "nid": "439376376",
+                "itemId": "439376376",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/1a33f5a6be96f7f26c2d8f6ec46f7577.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,464",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Emei shop",
+                "sellerId": "900282896146",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "439376376_NP-1930899852",
+                "skuId": "1930899852",
+                "sku": "439376376_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2464",
+                "inStock": true,
+                "originalPrice": "2957",
+                "clickTrace": "query:camera;nid:439376376;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:439376376_NP;price:2464;client:desktop;supplier_id:900282896146;biz_source:h5_unknow;slot:0;utlog_bucket_id:470687;asc_category_id:9544;item_id:439376376;sku_id:1930899852;shop_id:199787;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "439376376_NP-1930899852"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F1a33f5a6be96f7f26c2d8f6ec46f7577.jpg&src=srp_findsimilar&item_id=439376376&sku_id=1930899852&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2464.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/7-1-2-3-i439376376.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1930899852%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A246400%3BdisplayPrice%3A246400%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2464&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A439376376%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A439376376_NP%253Bprice%253A2464%253Bclient%253Adesktop%253Bsupplier_id%253A900282896146%253Bbiz_source%253Ah5_unknow%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A439376376%253Bsku_id%253A1930899852%253Bshop_id%253A199787%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "S21Ultra Housing For Samsung Galaxy S21 Ultra Plus Glass Battery Back Cover Repair Replace Door Phone Rear Case + Camera Lens",
+                "nid": "453731940",
+                "itemId": "453731940",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/cfa82789bdafbbc1a6984fc604cf1a47.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 3,608",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "453731940_NP-1999783203",
+                "skuId": "1999783203",
+                "sku": "453731940_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "3608",
+                "inStock": true,
+                "originalPrice": "4330",
+                "clickTrace": "query:camera;nid:453731940;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:453731940_NP;price:3608;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:1;utlog_bucket_id:470687;asc_category_id:9544;item_id:453731940;sku_id:1999783203;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "453731940_NP-1999783203"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fcfa82789bdafbbc1a6984fc604cf1a47.jpg&src=srp_findsimilar&item_id=453731940&sku_id=1999783203&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3608.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i453731940.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1999783203%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A360800%3BdisplayPrice%3A360800%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3608&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A453731940%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A453731940_NP%253Bprice%253A3608%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A453731940%253Bsku_id%253A1999783203%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Cizzy Tempered Glass For Canon G9X G9XII G7X G7XII Mark 2 II Mark2 G5X/G9 G7 G5 X/G1XIII G1X III M6 M100 M50 Camera Screen Protector",
+                "nid": "437123842",
+                "itemId": "437123842",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/ec46b884d0018493d4f3b1f514f873b0.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 4,844",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "b18a3ea6",
+                "sellerId": "900274208423",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "437123842_NP-1905996082",
+                "skuId": "1905996082",
+                "sku": "437123842_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "4844",
+                "inStock": true,
+                "originalPrice": "4941",
+                "clickTrace": "query:camera;nid:437123842;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:437123842_NP;price:4844;client:desktop;supplier_id:900274208423;biz_source:h5_unknow;slot:2;utlog_bucket_id:470687;asc_category_id:9544;item_id:437123842;sku_id:1905996082;shop_id:192411;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "437123842_NP-1905996082"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fec46b884d0018493d4f3b1f514f873b0.jpg&src=srp_findsimilar&item_id=437123842&sku_id=1905996082&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=4844.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/9-9-7-7-2-2-5-9-7-5-1-3-1-3-6-100-50-i437123842.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1905996082%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A484400%3BdisplayPrice%3A484400%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=4844&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A437123842%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A437123842_NP%253Bprice%253A4844%253Bclient%253Adesktop%253Bsupplier_id%253A900274208423%253Bbiz_source%253Ah5_unknow%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A437123842%253Bsku_id%253A1905996082%253Bshop_id%253A192411%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Nillkin for Apple iPhone 15 Phone Casing CamShield Soft Silicone Slide Camera Protection Back Cover Phone Cases",
+                "nid": "451986243",
+                "itemId": "451986243",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/6f4ff7c5b10e573920dc703b3904b31f.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,597",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "451986243_NP-1979629389",
+                "skuId": "1979629389",
+                "sku": "451986243_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2597",
+                "inStock": true,
+                "originalPrice": "3117",
+                "clickTrace": "query:camera;nid:451986243;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:451986243_NP;price:2597;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:3;utlog_bucket_id:470687;asc_category_id:9544;item_id:451986243;sku_id:1979629389;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "451986243_NP-1979629389"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F6f4ff7c5b10e573920dc703b3904b31f.jpg&src=srp_findsimilar&item_id=451986243&sku_id=1979629389&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2597.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/15-i451986243.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1979629389%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A259700%3BdisplayPrice%3A259700%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2597&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A451986243%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A451986243_NP%253Bprice%253A2597%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A3%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A451986243%253Bsku_id%253A1979629389%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Bizzy Tempered Glass For Canon G9X G9XII G7X G7XII Mark 2 II Mark2 G5X/G9 G7 G5 X/G1XIII G1X III M6 M100 M50 Camera Screen Protector",
+                "nid": "437011965",
+                "itemId": "437011965",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/aeeca72df97d147c3797234b07cbcb90.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 4,928",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "691f1cea",
+                "sellerId": "900273664033",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "437011965_NP-1904575916",
+                "skuId": "1904575916",
+                "sku": "437011965_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "4928",
+                "inStock": true,
+                "originalPrice": "5027",
+                "clickTrace": "query:camera;nid:437011965;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:437011965_NP;price:4928;client:desktop;supplier_id:900273664033;biz_source:h5_unknow;slot:4;utlog_bucket_id:470687;asc_category_id:9544;item_id:437011965;sku_id:1904575916;shop_id:192416;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "437011965_NP-1904575916"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Faeeca72df97d147c3797234b07cbcb90.jpg&src=srp_findsimilar&item_id=437011965&sku_id=1904575916&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=4928.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/9-9-7-7-2-2-5-9-7-5-1-3-1-3-6-100-50-i437011965.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1904575916%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A492800%3BdisplayPrice%3A492800%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=4928&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A437011965%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A437011965_NP%253Bprice%253A4928%253Bclient%253Adesktop%253Bsupplier_id%253A900273664033%253Bbiz_source%253Ah5_unknow%253Bslot%253A4%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A437011965%253Bsku_id%253A1904575916%253Bshop_id%253A192416%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Cizzy 9HD Metal Ring Lens Tempered Glass Protect Cover for Motorola Moto Edge 60 50 40 Pro Neo Fusion Anti-scratch Protect Camera Cap",
+                "nid": "421219773",
+                "itemId": "421219773",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/7c4655ec03df7f6b7c6e050e0663398b.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 3,740",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "b18a3ea6",
+                "sellerId": "900274208423",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "421219773_NP-1833834464",
+                "skuId": "1833834464",
+                "sku": "421219773_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "3740",
+                "inStock": true,
+                "originalPrice": "3815",
+                "clickTrace": "query:camera;nid:421219773;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:421219773_NP;price:3740;client:desktop;supplier_id:900274208423;biz_source:h5_unknow;slot:5;utlog_bucket_id:470687;asc_category_id:9544;item_id:421219773;sku_id:1833834464;shop_id:192411;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "421219773_NP-1833834464"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F7c4655ec03df7f6b7c6e050e0663398b.jpg&src=srp_findsimilar&item_id=421219773&sku_id=1833834464&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3740.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/60-50-40-9-i421219773.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1833834464%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A374000%3BdisplayPrice%3A374000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3.74E%203&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A421219773%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A421219773_NP%253Bprice%253A3740%253Bclient%253Adesktop%253Bsupplier_id%253A900274208423%253Bbiz_source%253Ah5_unknow%253Bslot%253A5%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A421219773%253Bsku_id%253A1833834464%253Bshop_id%253A192411%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Applicable to Apple 13 Camera Protector 13Pro Rear Camera Full Coverage Flash Diamond Lens Ring 13Pro Max",
+                "nid": "456767301",
+                "itemId": "456767301",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/5f6ffddc57121008b63ca67b33317c9f.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 920",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "14a55f8e",
+                "sellerId": "900266432753",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "456767301_NP-2028287178",
+                "skuId": "2028287178",
+                "sku": "456767301_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "920",
+                "inStock": true,
+                "originalPrice": "1012",
+                "clickTrace": "query:camera;nid:456767301;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:456767301_NP;price:920;client:desktop;supplier_id:900266432753;biz_source:h5_unknow;slot:6;utlog_bucket_id:470687;asc_category_id:9544;item_id:456767301;sku_id:2028287178;shop_id:177064;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "456767301_NP-2028287178"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F5f6ffddc57121008b63ca67b33317c9f.jpg&src=srp_findsimilar&item_id=456767301&sku_id=2028287178&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=920.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i456767301.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2028287178%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A92000%3BdisplayPrice%3A92000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=9.2E%202&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A456767301%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A456767301_NP%253Bprice%253A920%253Bclient%253Adesktop%253Bsupplier_id%253A900266432753%253Bbiz_source%253Ah5_unknow%253Bslot%253A6%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A456767301%253Bsku_id%253A2028287178%253Bshop_id%253A177064%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "For iPhone 13/13mini/13Pro/13 Pro Max Metal Ring Camera L",
+                "nid": "459589063",
+                "itemId": "459589063",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/e642c6d6d773e0e1d63cf86af613c61a.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 1,052",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "76044a38",
+                "sellerId": "900266448776",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "459589063_NP-2055254043",
+                "skuId": "2055254043",
+                "sku": "459589063_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "1052",
+                "inStock": true,
+                "originalPrice": "1158",
+                "clickTrace": "query:camera;nid:459589063;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:459589063_NP;price:1052;client:desktop;supplier_id:900266448776;biz_source:h5_unknow;slot:7;utlog_bucket_id:470687;asc_category_id:9544;item_id:459589063;sku_id:2055254043;shop_id:177077;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "459589063_NP-2055254043"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fe642c6d6d773e0e1d63cf86af613c61a.jpg&src=srp_findsimilar&item_id=459589063&sku_id=2055254043&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1052.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/131301313-i459589063.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2055254043%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A105200%3BdisplayPrice%3A105200%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1052&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A459589063%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A459589063_NP%253Bprice%253A1052%253Bclient%253Adesktop%253Bsupplier_id%253A900266448776%253Bbiz_source%253Ah5_unknow%253Bslot%253A7%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A459589063%253Bsku_id%253A2055254043%253Bshop_id%253A177077%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "For iPhone 13/13mini/13Pro/13 Pro Max Metal Ring Camera L",
+                "nid": "456754607",
+                "itemId": "456754607",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/e642c6d6d773e0e1d63cf86af613c61a.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 945",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "14a55f8e",
+                "sellerId": "900266432753",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "456754607_NP-2028273515",
+                "skuId": "2028273515",
+                "sku": "456754607_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "945",
+                "inStock": true,
+                "originalPrice": "1039",
+                "clickTrace": "query:camera;nid:456754607;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:456754607_NP;price:945;client:desktop;supplier_id:900266432753;biz_source:h5_unknow;slot:8;utlog_bucket_id:470687;asc_category_id:9544;item_id:456754607;sku_id:2028273515;shop_id:177064;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "456754607_NP-2028273515"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fe642c6d6d773e0e1d63cf86af613c61a.jpg&src=srp_findsimilar&item_id=456754607&sku_id=2028273515&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=945.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/131301313-i456754607.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2028273515%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A94500%3BdisplayPrice%3A94500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=945&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A456754607%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A456754607_NP%253Bprice%253A945%253Bclient%253Adesktop%253Bsupplier_id%253A900266432753%253Bbiz_source%253Ah5_unknow%253Bslot%253A8%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A456754607%253Bsku_id%253A2028273515%253Bshop_id%253A177064%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Tempered Glass Camera Premium /16 Compatible\uff0dTitanium Protector Lens MaxPro/Pro16iPhone Brand LITO16 Camera DESERTPro16 ProMax",
+                "nid": "487799776",
+                "itemId": "487799776",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/a4d18d62144ea3d2c5139a7595afa698.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 1,182",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jinxiangyue",
+                "sellerId": "900283920405",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "487799776_NP-2190097016",
+                "skuId": "2190097016",
+                "sku": "487799776_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "1182",
+                "inStock": true,
+                "originalPrice": "1418",
+                "clickTrace": "query:camera;nid:487799776;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:487799776_NP;price:1182;client:desktop;supplier_id:900283920405;biz_source:h5_unknow;slot:9;utlog_bucket_id:470687;asc_category_id:9544;item_id:487799776;sku_id:2190097016;shop_id:201040;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "487799776_NP-2190097016"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fa4d18d62144ea3d2c5139a7595afa698.jpg&src=srp_findsimilar&item_id=487799776&sku_id=2190097016&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1182.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/16-16-16-16-i487799776.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2190097016%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A118200%3BdisplayPrice%3A118200%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1182&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A487799776%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A487799776_NP%253Bprice%253A1182%253Bclient%253Adesktop%253Bsupplier_id%253A900283920405%253Bbiz_source%253Ah5_unknow%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A487799776%253Bsku_id%253A2190097016%253Bshop_id%253A201040%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "For iPhone 13/13mini/13Pro/13 Pro Max Metal Ring Camera L",
+                "nid": "451721474",
+                "itemId": "451721474",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/e642c6d6d773e0e1d63cf86af613c61a.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 1,135",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "2ed3be34",
+                "sellerId": "900266496148",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "451721474_NP-1976914326",
+                "skuId": "1976914326",
+                "sku": "451721474_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "1135",
+                "inStock": true,
+                "originalPrice": "1248",
+                "clickTrace": "query:camera;nid:451721474;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:451721474_NP;price:1135;client:desktop;supplier_id:900266496148;biz_source:h5_unknow;slot:10;utlog_bucket_id:470687;asc_category_id:9544;item_id:451721474;sku_id:1976914326;shop_id:176735;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "451721474_NP-1976914326"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fe642c6d6d773e0e1d63cf86af613c61a.jpg&src=srp_findsimilar&item_id=451721474&sku_id=1976914326&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1135.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/131301313-i451721474.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1976914326%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A113500%3BdisplayPrice%3A113500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1135&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A451721474%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A451721474_NP%253Bprice%253A1135%253Bclient%253Adesktop%253Bsupplier_id%253A900266496148%253Bbiz_source%253Ah5_unknow%253Bslot%253A10%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A451721474%253Bsku_id%253A1976914326%253Bshop_id%253A176735%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "For iPhone 13/13mini/13Pro/13 Pro Max Metal Ring Camera L",
+                "nid": "455380361",
+                "itemId": "455380361",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/e642c6d6d773e0e1d63cf86af613c61a.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 1,138",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "8d5ed17e",
+                "sellerId": "900262816084",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "455380361_NP-2015417271",
+                "skuId": "2015417271",
+                "sku": "455380361_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "1138",
+                "inStock": true,
+                "originalPrice": "1252",
+                "clickTrace": "query:camera;nid:455380361;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:455380361_NP;price:1138;client:desktop;supplier_id:900262816084;biz_source:h5_unknow;slot:11;utlog_bucket_id:470687;asc_category_id:9544;item_id:455380361;sku_id:2015417271;shop_id:170448;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "455380361_NP-2015417271"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fe642c6d6d773e0e1d63cf86af613c61a.jpg&src=srp_findsimilar&item_id=455380361&sku_id=2015417271&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1138.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/131301313-i455380361.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2015417271%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A113800%3BdisplayPrice%3A113800%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1138&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A455380361%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A455380361_NP%253Bprice%253A1138%253Bclient%253Adesktop%253Bsupplier_id%253A900262816084%253Bbiz_source%253Ah5_unknow%253Bslot%253A11%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A455380361%253Bsku_id%253A2015417271%253Bshop_id%253A170448%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "NEW 3PCS Camera Lens Glass For iPhone 16 15 14 Pro Max Mini Camera Lens Protector for iPhone 15Pro Max 16 Plus 16 Pro Max Lens Glass",
+                "nid": "434932784",
+                "itemId": "434932784",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/88d41d02f67e0bf342444108b73a706d.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 1,515",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Xuhua",
+                "sellerId": "900285456541",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "434932784_NP-1881676834",
+                "skuId": "1881676834",
+                "sku": "434932784_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "1515",
+                "inStock": true,
+                "originalPrice": "1818",
+                "clickTrace": "query:camera;nid:434932784;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:434932784_NP;price:1515;client:desktop;supplier_id:900285456541;biz_source:h5_unknow;slot:12;utlog_bucket_id:470687;asc_category_id:9544;item_id:434932784;sku_id:1881676834;shop_id:202484;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "434932784_NP-1881676834"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F88d41d02f67e0bf342444108b73a706d.jpg&src=srp_findsimilar&item_id=434932784&sku_id=1881676834&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1515.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/3-16-15-14-15-16-16-i434932784.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1881676834%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A151500%3BdisplayPrice%3A151500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1515&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A434932784%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A434932784_NP%253Bprice%253A1515%253Bclient%253Adesktop%253Bsupplier_id%253A900285456541%253Bbiz_source%253Ah5_unknow%253Bslot%253A12%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A434932784%253Bsku_id%253A1881676834%253Bshop_id%253A202484%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Yuanyan For Xiaomi Mi 11 Pro Ultra Camera Lens Aluminum Metal Sheet Cover Lens Screen Protector for Xiaomi Mi 11Pro 11ultra Camera Film",
+                "nid": "407491127",
+                "itemId": "407491127",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://sg-test-11.slatic.net/p/e520fca3b2d66e50ac4dc6ca92884708.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 1,289",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Yuanyan",
+                "sellerId": "900274240060",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "407491127_NP-1746775159",
+                "skuId": "1746775159",
+                "sku": "407491127_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "1289",
+                "inStock": true,
+                "originalPrice": "2308",
+                "clickTrace": "query:camera;nid:407491127;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:407491127_NP;price:1289;client:desktop;supplier_id:900274240060;biz_source:h5_unknow;slot:13;utlog_bucket_id:470687;asc_category_id:9544;item_id:407491127;sku_id:1746775159;shop_id:192291;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "407491127_NP-1746775159"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fsg-test-11.slatic.net%2Fp%2Fe520fca3b2d66e50ac4dc6ca92884708.jpg&src=srp_findsimilar&item_id=407491127&sku_id=1746775159&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1289.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/xiaomi-mi-11-pro-xiaomi-mi-11pro-11-i407491127.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1746775159%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A128900%3BdisplayPrice%3A128900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1289&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A407491127%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A407491127_NP%253Bprice%253A1289%253Bclient%253Adesktop%253Bsupplier_id%253A900274240060%253Bbiz_source%253Ah5_unknow%253Bslot%253A13%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A407491127%253Bsku_id%253A1746775159%253Bshop_id%253A192291%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "HOT Fashion For Xiaomi 11T Pro Back Camera Lens Aluminum Metal Sheet Lens Screen Protector for Xiaomi 11TPro Protective Back Camera Lens",
+                "nid": "480629644",
+                "itemId": "480629644",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://laz-img-sg.alicdn.com/p/4a1ecc4579648a7e394ab8a28051aeb5.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 1,471",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Shuzhao",
+                "sellerId": "900277984643",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "480629644_NP-2157614174",
+                "skuId": "2157614174",
+                "sku": "480629644_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "1471",
+                "inStock": true,
+                "originalPrice": "1765",
+                "clickTrace": "query:camera;nid:480629644;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:480629644_NP;price:1471;client:desktop;supplier_id:900277984643;biz_source:h5_unknow;slot:14;utlog_bucket_id:470687;asc_category_id:9544;item_id:480629644;sku_id:2157614174;shop_id:198073;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "480629644_NP-2157614174"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Flaz-img-sg.alicdn.com%2Fp%2F4a1ecc4579648a7e394ab8a28051aeb5.jpg&src=srp_findsimilar&item_id=480629644&sku_id=2157614174&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1471.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i480629644.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2157614174%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A147100%3BdisplayPrice%3A147100%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1471&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A480629644%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A480629644_NP%253Bprice%253A1471%253Bclient%253Adesktop%253Bsupplier_id%253A900277984643%253Bbiz_source%253Ah5_unknow%253Bslot%253A14%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A480629644%253Bsku_id%253A2157614174%253Bshop_id%253A198073%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "HOT Fashion BM-11 Camera Cover Hard LCD Monitor Cover Screen Protector for Nikon D7000 BM-11 Camera Accessories",
+                "nid": "480604243",
+                "itemId": "480604243",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://laz-img-sg.alicdn.com/p/befbf2866b1e82b5ae82dd0ad630ff0b.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 1,605",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Shuzhao",
+                "sellerId": "900277984643",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "480604243_NP-2157215769",
+                "skuId": "2157215769",
+                "sku": "480604243_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "1605",
+                "inStock": true,
+                "originalPrice": "1926",
+                "clickTrace": "query:camera;nid:480604243;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:480604243_NP;price:1605;client:desktop;supplier_id:900277984643;biz_source:h5_unknow;slot:15;utlog_bucket_id:470687;asc_category_id:9544;item_id:480604243;sku_id:2157215769;shop_id:198073;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "480604243_NP-2157215769"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Flaz-img-sg.alicdn.com%2Fp%2Fbefbf2866b1e82b5ae82dd0ad630ff0b.jpg&src=srp_findsimilar&item_id=480604243&sku_id=2157215769&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1605.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/11-7000-11-i480604243.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2157215769%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A160500%3BdisplayPrice%3A160500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1605&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A480604243%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A480604243_NP%253Bprice%253A1605%253Bclient%253Adesktop%253Bsupplier_id%253A900277984643%253Bbiz_source%253Ah5_unknow%253Bslot%253A15%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A480604243%253Bsku_id%253A2157215769%253Bshop_id%253A198073%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Aweisuan Hot Sale (Fingerprint Doesn't Work) For Samsung Galaxy S20 FE 5G / 4G 3pcs Private Tempered Glass Camera Lens Privacy Screen Protector",
+                "nid": "412136251",
+                "itemId": "412136251",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/3a53c438ae979d31df768054528a75b8.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,018",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jinxiangyue",
+                "sellerId": "900283920405",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "412136251_NP-1772499194",
+                "skuId": "1772499194",
+                "sku": "412136251_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2018",
+                "inStock": true,
+                "originalPrice": "3064",
+                "clickTrace": "query:camera;nid:412136251;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:412136251_NP;price:2018;client:desktop;supplier_id:900283920405;biz_source:h5_unknow;slot:16;utlog_bucket_id:470687;asc_category_id:9544;item_id:412136251;sku_id:1772499194;shop_id:201040;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "412136251_NP-1772499194"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F3a53c438ae979d31df768054528a75b8.jpg&src=srp_findsimilar&item_id=412136251&sku_id=1772499194&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2018.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/aweisuan-hot-sale-samsung-galaxy-fe-5g-4g-3pcs-i412136251.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1772499194%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A201800%3BdisplayPrice%3A201800%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2018&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A412136251%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A412136251_NP%253Bprice%253A2018%253Bclient%253Adesktop%253Bsupplier_id%253A900283920405%253Bbiz_source%253Ah5_unknow%253Bslot%253A16%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A412136251%253Bsku_id%253A1772499194%253Bshop_id%253A201040%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Cizzy 2-3Pcs Luminous Camera Lens Protector Cover For IPhone 15 ProMax 14 Plus 13 11 Pro Max 12 Mini 12Pro Glowing Glass Ring Films",
+                "nid": "434942432",
+                "itemId": "434942432",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/527c87bd4e1d26d26f666383788acc0f.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 4,441",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "b18a3ea6",
+                "sellerId": "900274208423",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "434942432_NP-1881678251",
+                "skuId": "1881678251",
+                "sku": "434942432_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "4441",
+                "inStock": true,
+                "originalPrice": "4530",
+                "clickTrace": "query:camera;nid:434942432;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:434942432_NP;price:4441;client:desktop;supplier_id:900274208423;biz_source:h5_unknow;slot:17;utlog_bucket_id:470687;asc_category_id:9544;item_id:434942432;sku_id:1881678251;shop_id:192411;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "434942432_NP-1881678251"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F527c87bd4e1d26d26f666383788acc0f.jpg&src=srp_findsimilar&item_id=434942432&sku_id=1881678251&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=4441.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/iphone-15-promax-14-plus-13-11-pro-max-12-mini-12pro-2-3-i434942432.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1881678251%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A444100%3BdisplayPrice%3A444100%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=4441&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A434942432%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A434942432_NP%253Bprice%253A4441%253Bclient%253Adesktop%253Bsupplier_id%253A900274208423%253Bbiz_source%253Ah5_unknow%253Bslot%253A17%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A434942432%253Bsku_id%253A1881678251%253Bshop_id%253A192411%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Nillkin for Xiaomi Redmi Note 13 Pro Plus 5G Case Camera Protection Lens Frosted Hard camshield 360 full Back Cover",
+                "nid": "451990431",
+                "itemId": "451990431",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/2ea06070920532ab51ee7a7947075a73.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,516",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "451990431_NP-1979766758",
+                "skuId": "1979766758",
+                "sku": "451990431_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2516",
+                "inStock": true,
+                "originalPrice": "3019",
+                "clickTrace": "query:camera;nid:451990431;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:451990431_NP;price:2516;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:18;utlog_bucket_id:470687;asc_category_id:9544;item_id:451990431;sku_id:1979766758;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "451990431_NP-1979766758"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F2ea06070920532ab51ee7a7947075a73.jpg&src=srp_findsimilar&item_id=451990431&sku_id=1979766758&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2516.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i451990431.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1979766758%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A251600%3BdisplayPrice%3A251600%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2516&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A451990431%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A451990431_NP%253Bprice%253A2516%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A18%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A451990431%253Bsku_id%253A1979766758%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Emily In Paris 3D Retro Camera Leather Case for IPhone 14 11 13 15 Pro Max 12 Mini XS XR X 7 8 Plus SE 2020 IPone Accessories",
+                "nid": "454058332",
+                "itemId": "454058332",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/8338bb0fdf8b7a1ef6695a3035f085db.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,796",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "454058332_NP-2003354198",
+                "skuId": "2003354198",
+                "sku": "454058332_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2796",
+                "inStock": true,
+                "originalPrice": "3356",
+                "clickTrace": "query:camera;nid:454058332;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:454058332_NP;price:2796;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:19;utlog_bucket_id:470687;asc_category_id:9544;item_id:454058332;sku_id:2003354198;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "454058332_NP-2003354198"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F8338bb0fdf8b7a1ef6695a3035f085db.jpg&src=srp_findsimilar&item_id=454058332&sku_id=2003354198&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2796.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/14-11-13-15-12-7-8-2020-3-i454058332.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2003354198%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A279600%3BdisplayPrice%3A279600%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2796&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A454058332%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A454058332_NP%253Bprice%253A2796%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A19%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A454058332%253Bsku_id%253A2003354198%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Original Back Rear Camera Glass Lens Cover With Glue For Xiaomi Redmi Note 12 4G / Note 12 Pro Plus / Note 12s 4G / Note 12 Pro",
+                "nid": "454099442",
+                "itemId": "454099442",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/684fa2c0969b421e618093ed538c2984.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,688",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "454099442_NP-2003910040",
+                "skuId": "2003910040",
+                "sku": "454099442_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2688",
+                "inStock": true,
+                "originalPrice": "3226",
+                "clickTrace": "query:camera;nid:454099442;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:454099442_NP;price:2688;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:20;utlog_bucket_id:470687;asc_category_id:9544;item_id:454099442;sku_id:2003910040;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "454099442_NP-2003910040"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F684fa2c0969b421e618093ed538c2984.jpg&src=srp_findsimilar&item_id=454099442&sku_id=2003910040&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2688.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i454099442.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2003910040%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A268800%3BdisplayPrice%3A268800%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2688&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A454099442%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A454099442_NP%253Bprice%253A2688%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A20%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A454099442%253Bsku_id%253A2003910040%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "For Samsung Galaxy NOTE10 Plus N9750 N975F note 10+ middle frame Battery Cover Door Rear Glass Case Housing Shell Camera Lens",
+                "nid": "453780260",
+                "itemId": "453780260",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/bffb05086812fb3dd1104f8af040b668.png",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,896",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "453780260_NP-1999994030",
+                "skuId": "1999994030",
+                "sku": "453780260_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2896",
+                "inStock": true,
+                "originalPrice": "3475",
+                "clickTrace": "query:camera;nid:453780260;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:453780260_NP;price:2896;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:21;utlog_bucket_id:470687;asc_category_id:9544;item_id:453780260;sku_id:1999994030;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "453780260_NP-1999994030"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fbffb05086812fb3dd1104f8af040b668.png&src=srp_findsimilar&item_id=453780260&sku_id=1999994030&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2896.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i453780260.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1999994030%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A289600%3BdisplayPrice%3A289600%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2896&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A453780260%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A453780260_NP%253Bprice%253A2896%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A21%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A453780260%253Bsku_id%253A1999994030%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Camera Lens Protector for IPhone 11 12 13 Pro Max Mini 15 Pro Max Diamond Metal Protective Glass for IPhone 14 Plus Lens Glass",
+                "nid": "453938209",
+                "itemId": "453938209",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/7e54381369bd5f4024e37acd914f4e76.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,796",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "453938209_NP-2002001860",
+                "skuId": "2002001860",
+                "sku": "453938209_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2796",
+                "inStock": true,
+                "originalPrice": "3356",
+                "clickTrace": "query:camera;nid:453938209;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:453938209_NP;price:2796;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:22;utlog_bucket_id:470687;asc_category_id:9544;item_id:453938209;sku_id:2002001860;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "453938209_NP-2002001860"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F7e54381369bd5f4024e37acd914f4e76.jpg&src=srp_findsimilar&item_id=453938209&sku_id=2002001860&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2796.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/11-12-13-15-14-i453938209.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2002001860%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A279600%3BdisplayPrice%3A279600%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2796&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A453938209%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A453938209_NP%253Bprice%253A2796%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A22%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A453938209%253Bsku_id%253A2002001860%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Original OEM For iPhone 11 12 13 14 Pro Max Mini Plus XS Back Glass Case Large Camera Hole Replacement Rear Battery Cover Glass",
+                "nid": "457931063",
+                "itemId": "457931063",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.lk/p/dd3aa2c1a9d7c835df2fe08ce0e79585.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,563",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Tingwei",
+                "sellerId": "900282576191",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "457931063_NP-2039600012",
+                "skuId": "2039600012",
+                "sku": "457931063_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2563",
+                "inStock": true,
+                "originalPrice": "3076",
+                "clickTrace": "query:camera;nid:457931063;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:457931063_NP;price:2563;client:desktop;supplier_id:900282576191;biz_source:h5_unknow;slot:23;utlog_bucket_id:470687;asc_category_id:9544;item_id:457931063;sku_id:2039600012;shop_id:199792;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "457931063_NP-2039600012"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.lk%2Fp%2Fdd3aa2c1a9d7c835df2fe08ce0e79585.jpg&src=srp_findsimilar&item_id=457931063&sku_id=2039600012&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2563.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/11-12-13-14-i457931063.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2039600012%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A256300%3BdisplayPrice%3A256300%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2563&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A457931063%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A457931063_NP%253Bprice%253A2563%253Bclient%253Adesktop%253Bsupplier_id%253A900282576191%253Bbiz_source%253Ah5_unknow%253Bslot%253A23%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A457931063%253Bsku_id%253A2039600012%253Bshop_id%253A199792%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "For Samsung Galaxy M34 5G Cover High Quality Soft TPU Case For Samsung Galaxy M34 5G Anti-fingerprint Camera protection",
+                "nid": "454099277",
+                "itemId": "454099277",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/004fed4d19a7fc2d335ba9ae94f65641.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,796",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "454099277_NP-2003841072",
+                "skuId": "2003841072",
+                "sku": "454099277_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2796",
+                "inStock": true,
+                "originalPrice": "3356",
+                "clickTrace": "query:camera;nid:454099277;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:454099277_NP;price:2796;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:24;utlog_bucket_id:470687;asc_category_id:9544;item_id:454099277;sku_id:2003841072;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "454099277_NP-2003841072"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F004fed4d19a7fc2d335ba9ae94f65641.jpg&src=srp_findsimilar&item_id=454099277&sku_id=2003841072&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2796.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i454099277.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2003841072%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A279600%3BdisplayPrice%3A279600%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2796&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A454099277%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A454099277_NP%253Bprice%253A2796%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A24%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A454099277%253Bsku_id%253A2003841072%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Ultra Thin Clear Soft TPU Camera Protection Case Cover For Xiaomi Redmi Note 13 Pro Plus",
+                "nid": "454076102",
+                "itemId": "454076102",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/4c7b7fe7c230b6f41aea785d23b31b7e.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,985",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "454076102_NP-2003467548",
+                "skuId": "2003467548",
+                "sku": "454076102_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2985",
+                "inStock": true,
+                "originalPrice": "3582",
+                "clickTrace": "query:camera;nid:454076102;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:454076102_NP;price:2985;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:25;utlog_bucket_id:470687;asc_category_id:9544;item_id:454076102;sku_id:2003467548;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "454076102_NP-2003467548"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F4c7b7fe7c230b6f41aea785d23b31b7e.jpg&src=srp_findsimilar&item_id=454076102&sku_id=2003467548&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2985.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i454076102.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2003467548%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A298500%3BdisplayPrice%3A298500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2985&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A454076102%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A454076102_NP%253Bprice%253A2985%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A25%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A454076102%253Bsku_id%253A2003467548%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "For Samsung Galaxy A02 A022 Battery Cover Back Panel Rear Door Housing Case With Power Volume button +Camera Lens",
+                "nid": "454061285",
+                "itemId": "454061285",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/136f049a52832f218e5f02e3be112615.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,985",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "454061285_NP-2003364868",
+                "skuId": "2003364868",
+                "sku": "454061285_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2985",
+                "inStock": true,
+                "originalPrice": "3582",
+                "clickTrace": "query:camera;nid:454061285;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:454061285_NP;price:2985;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:26;utlog_bucket_id:470687;asc_category_id:9544;item_id:454061285;sku_id:2003364868;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "454061285_NP-2003364868"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F136f049a52832f218e5f02e3be112615.jpg&src=srp_findsimilar&item_id=454061285&sku_id=2003364868&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2985.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i454061285.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2003364868%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A298500%3BdisplayPrice%3A298500%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2985&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A454061285%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A454061285_NP%253Bprice%253A2985%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A26%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A454061285%253Bsku_id%253A2003364868%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "For Xiaomi Redmi Note 12 Pro Plus Case Slide Camera Lens Protection Phone Case For Redmi 12C Solid Candy Color Soft TPU Cover",
+                "nid": "453771072",
+                "itemId": "453771072",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/5ff0c6c5438685596f78e23050fcde98.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 3,259",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "453771072_NP-1999815727",
+                "skuId": "1999815727",
+                "sku": "453771072_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "3259",
+                "inStock": true,
+                "originalPrice": "3911",
+                "clickTrace": "query:camera;nid:453771072;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:453771072_NP;price:3259;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:27;utlog_bucket_id:470687;asc_category_id:9544;item_id:453771072;sku_id:1999815727;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "453771072_NP-1999815727"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F5ff0c6c5438685596f78e23050fcde98.jpg&src=srp_findsimilar&item_id=453771072&sku_id=1999815727&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3259.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i453771072.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1999815727%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A325900%3BdisplayPrice%3A325900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3259&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A453771072%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A453771072_NP%253Bprice%253A3259%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A27%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A453771072%253Bsku_id%253A1999815727%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Mini Born 4in1 Full Cover Camera Lens for OnePlus Nord N200 5G DE2118 TemOriginal pered Glass 6.49 for One Plus N 200 Screen Protectors Protective",
+                "nid": "446886921",
+                "itemId": "446886921",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    },
+                    {
+                        "domClass": "150318",
+                        "text": "Gems save Rs. 81",
+                        "type": "text",
+                        "group": "2",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/fc731397fad16ade5806f44af7a81dae.png",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,700",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Mini Born",
+                "sellerId": "900232016558",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "446886921_NP-1954383581",
+                "skuId": "1954383581",
+                "sku": "446886921_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2700",
+                "inStock": true,
+                "originalPrice": "3240",
+                "clickTrace": "query:camera;nid:446886921;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:446886921_NP;price:2700;client:desktop;supplier_id:900232016558;biz_source:h5_unknow;slot:28;utlog_bucket_id:470687;asc_category_id:9544;item_id:446886921;sku_id:1954383581;shop_id:143802;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "446886921_NP-1954383581"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Ffc731397fad16ade5806f44af7a81dae.png&src=srp_findsimilar&item_id=446886921&sku_id=1954383581&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2700.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i446886921.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1954383581%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A270000%3BdisplayPrice%3A270000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2.7E%203&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A446886921%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A446886921_NP%253Bprice%253A2700%253Bclient%253Adesktop%253Bsupplier_id%253A900232016558%253Bbiz_source%253Ah5_unknow%253Bslot%253A28%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A446886921%253Bsku_id%253A1954383581%253Bshop_id%253A143802%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Redmy 12 C Case 3To1 Camera Glass Screen Protector Cover For Xiaomi Redmi12C Redmi 12C 10C 9C C12 C10 C9 Clear Soft Coque Fundas",
+                "nid": "453866905",
+                "itemId": "453866905",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/e8e3a4e570a564a7c3f9c7b6d95d9d62.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,891",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "453866905_NP-2001386831",
+                "skuId": "2001386831",
+                "sku": "453866905_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2891",
+                "inStock": true,
+                "originalPrice": "3469",
+                "clickTrace": "query:camera;nid:453866905;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:453866905_NP;price:2891;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:29;utlog_bucket_id:470687;asc_category_id:9544;item_id:453866905;sku_id:2001386831;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "453866905_NP-2001386831"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fe8e3a4e570a564a7c3f9c7b6d95d9d62.jpg&src=srp_findsimilar&item_id=453866905&sku_id=2001386831&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2891.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i453866905.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2001386831%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A289100%3BdisplayPrice%3A289100%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2891&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A453866905%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A453866905_NP%253Bprice%253A2891%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A29%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A453866905%253Bsku_id%253A2001386831%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Camera lens protector glass full coverage alloy metal tempered Ultra 3 S24 Galaxy 2025\u65b0\u54c1 for Samsung GRanggense new camera protector suitable for S25 S2Plus aluminum.",
+                "nid": "491153520",
+                "itemId": "491153520",
+                "icons": [],
+                "image": "https://static-01.daraz.com.np/p/ac82d744acabdfa173f7869300563562.png",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 1,436",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Manhuayuangu",
+                "sellerId": "900270048480",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "491153520_NP-2203781153",
+                "skuId": "2203781153",
+                "sku": "491153520_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "1436",
+                "inStock": true,
+                "originalPrice": "1723",
+                "clickTrace": "query:camera;nid:491153520;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:491153520_NP;price:1436;client:desktop;supplier_id:900270048480;biz_source:h5_unknow;slot:30;utlog_bucket_id:470687;asc_category_id:9544;item_id:491153520;sku_id:2203781153;shop_id:184134;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "491153520_NP-2203781153"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fac82d744acabdfa173f7869300563562.png&src=srp_findsimilar&item_id=491153520&sku_id=2203781153&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=1436.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/3-2025-granggense-i491153520.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2203781153%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A143600%3BdisplayPrice%3A143600%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=1436&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A491153520%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A491153520_NP%253Bprice%253A1436%253Bclient%253Adesktop%253Bsupplier_id%253A900270048480%253Bbiz_source%253Ah5_unknow%253Bslot%253A30%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A491153520%253Bsku_id%253A2203781153%253Bshop_id%253A184134%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Mini Born Universal Polishing Cloth For Apple iPhone 14 13 Pro iPad Mini MPortable acbook Air Screen Display Camera Polish Cleaning Wipe Cloth 2023",
+                "nid": "452425321",
+                "itemId": "452425321",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    },
+                    {
+                        "domClass": "150318",
+                        "text": "Gems save Rs. 89",
+                        "type": "text",
+                        "group": "2",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/7352ceef10905e311684d38d47b8e24a.png",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 2,974",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Mini Born",
+                "sellerId": "900232016558",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "452425321_NP-1985406516",
+                "skuId": "1985406516",
+                "sku": "452425321_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "2974",
+                "inStock": true,
+                "originalPrice": "3569",
+                "clickTrace": "query:camera;nid:452425321;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:452425321_NP;price:2974;client:desktop;supplier_id:900232016558;biz_source:h5_unknow;slot:31;utlog_bucket_id:470687;asc_category_id:9544;item_id:452425321;sku_id:1985406516;shop_id:143802;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "452425321_NP-1985406516"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F7352ceef10905e311684d38d47b8e24a.png&src=srp_findsimilar&item_id=452425321&sku_id=1985406516&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=2974.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/14-13-2023-i452425321.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1985406516%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A297400%3BdisplayPrice%3A297400%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=2974&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A452425321%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A452425321_NP%253Bprice%253A2974%253Bclient%253Adesktop%253Bsupplier_id%253A900232016558%253Bbiz_source%253Ah5_unknow%253Bslot%253A31%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A452425321%253Bsku_id%253A1985406516%253Bshop_id%253A143802%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "For Xiaomi Redmi Note 12 4G Case Camera Lens Protect Armor Shockproof Cases For Xiomi Redmi Note12 4G Magnetic Holder Ring Cover",
+                "nid": "451986203",
+                "itemId": "451986203",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/c67afd6249f56c38e818ec6491521849.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 3,033",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "451986203_NP-1979616459",
+                "skuId": "1979616459",
+                "sku": "451986203_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "3033",
+                "inStock": true,
+                "originalPrice": "3639",
+                "clickTrace": "query:camera;nid:451986203;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:451986203_NP;price:3033;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:32;utlog_bucket_id:470687;asc_category_id:9544;item_id:451986203;sku_id:1979616459;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "451986203_NP-1979616459"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fc67afd6249f56c38e818ec6491521849.jpg&src=srp_findsimilar&item_id=451986203&sku_id=1979616459&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3033.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i451986203.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1979616459%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A303300%3BdisplayPrice%3A303300%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3033&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A451986203%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A451986203_NP%253Bprice%253A3033%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A32%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A451986203%253Bsku_id%253A1979616459%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Mini Born Tempered Glass Protector for Canon EOS 5D II Mark2 Markii 5D2 5DSales promotion II 50D 40D 1DS Mark III 1DS3 Camera Screen Protective Film Cover",
+                "nid": "451761451",
+                "itemId": "451761451",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    },
+                    {
+                        "domClass": "150318",
+                        "text": "Gems save Rs. 97",
+                        "type": "text",
+                        "group": "2",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/6e7a86ce6e967e5b09fb2a0926da409c.png",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 3,246",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Mini Born",
+                "sellerId": "900232016558",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "451761451_NP-1977083012",
+                "skuId": "1977083012",
+                "sku": "451761451_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "3246",
+                "inStock": true,
+                "originalPrice": "3895",
+                "clickTrace": "query:camera;nid:451761451;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:451761451_NP;price:3246;client:desktop;supplier_id:900232016558;biz_source:h5_unknow;slot:33;utlog_bucket_id:470687;asc_category_id:9544;item_id:451761451;sku_id:1977083012;shop_id:143802;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "451761451_NP-1977083012"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F6e7a86ce6e967e5b09fb2a0926da409c.png&src=srp_findsimilar&item_id=451761451&sku_id=1977083012&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3246.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/5-2-2-5-2-5-50-40-1-1-3-i451761451.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1977083012%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A324600%3BdisplayPrice%3A324600%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3246&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A451761451%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A451761451_NP%253Bprice%253A3246%253Bclient%253Adesktop%253Bsupplier_id%253A900232016558%253Bbiz_source%253Ah5_unknow%253Bslot%253A33%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A451761451%253Bsku_id%253A1977083012%253Bshop_id%253A143802%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "3D Camera Protector For Xiaomi 13 12 pro 12X 12s 5G camera Lens Protective Tempered Glass For Mi 12pro phone Accessories",
+                "nid": "454030853",
+                "itemId": "454030853",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/c0a7674797e118ef3d3007c4a99a790a.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 3,302",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "454030853_NP-2003212739",
+                "skuId": "2003212739",
+                "sku": "454030853_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "3302",
+                "inStock": true,
+                "originalPrice": "3962",
+                "clickTrace": "query:camera;nid:454030853;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:454030853_NP;price:3302;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:34;utlog_bucket_id:470687;asc_category_id:9544;item_id:454030853;sku_id:2003212739;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "454030853_NP-2003212739"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fc0a7674797e118ef3d3007c4a99a790a.jpg&src=srp_findsimilar&item_id=454030853&sku_id=2003212739&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3302.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i454030853.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A2003212739%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A330200%3BdisplayPrice%3A330200%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3302&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A454030853%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A454030853_NP%253Bprice%253A3302%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A34%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A454030853%253Bsku_id%253A2003212739%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Mini Born OOTDTY Hard LCD Monitor Cover Screen Prote\u3010Hot New Release\u3011ctor for Nikon D90 BM-10 Camera Accessories",
+                "nid": "436150697",
+                "itemId": "436150697",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    },
+                    {
+                        "domClass": "150318",
+                        "text": "Gems save Rs. 99",
+                        "type": "text",
+                        "group": "2",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/743fd7ca6b827aa8109d00bed336ae43.png",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 3,302",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Mini Born",
+                "sellerId": "900232016558",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "436150697_NP-1895127930",
+                "skuId": "1895127930",
+                "sku": "436150697_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "3302",
+                "inStock": true,
+                "originalPrice": "3963",
+                "clickTrace": "query:camera;nid:436150697;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:436150697_NP;price:3302;client:desktop;supplier_id:900232016558;biz_source:h5_unknow;slot:35;utlog_bucket_id:470687;asc_category_id:9544;item_id:436150697;sku_id:1895127930;shop_id:143802;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "436150697_NP-1895127930"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F743fd7ca6b827aa8109d00bed336ae43.png&src=srp_findsimilar&item_id=436150697&sku_id=1895127930&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3302.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/90-10-i436150697.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1895127930%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A330200%3BdisplayPrice%3A330200%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3302&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A436150697%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A436150697_NP%253Bprice%253A3302%253Bclient%253Adesktop%253Bsupplier_id%253A900232016558%253Bbiz_source%253Ah5_unknow%253Bslot%253A35%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A436150697%253Bsku_id%253A1895127930%253Bshop_id%253A143802%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "For Xiaomi Redmi Note 13 Pro Magnetic Leather Case Redmi Note 13 Pro+ Global Back Cover Funda Camera Protection Redmi Note 13",
+                "nid": "453683613",
+                "itemId": "453683613",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/26bb92472f1c02b024bc8c1443f65748.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 3,370",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "453683613_NP-1999192195",
+                "skuId": "1999192195",
+                "sku": "453683613_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "3370",
+                "inStock": true,
+                "originalPrice": "4044",
+                "clickTrace": "query:camera;nid:453683613;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:453683613_NP;price:3370;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:36;utlog_bucket_id:470687;asc_category_id:9544;item_id:453683613;sku_id:1999192195;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "453683613_NP-1999192195"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F26bb92472f1c02b024bc8c1443f65748.jpg&src=srp_findsimilar&item_id=453683613&sku_id=1999192195&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3370.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/-i453683613.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1999192195%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A337000%3BdisplayPrice%3A337000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3.37E%203&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A453683613%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A453683613_NP%253Bprice%253A3370%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A36%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A453683613%253Bsku_id%253A1999192195%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "Mini Born For Nikon Z8 Z6 Z6II Z7 Z7II Z9 Tempered Camera Protective G\u30102025 Version\u3011lass Main LCD Display +Top Info Screen Protector Guard Cover",
+                "nid": "452392773",
+                "itemId": "452392773",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    },
+                    {
+                        "domClass": "150318",
+                        "text": "Gems save Rs. 95",
+                        "type": "text",
+                        "group": "2",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/37a86b7dfb159eedc07bc1311a3402e3.png",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 3,173",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Mini Born",
+                "sellerId": "900232016558",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "452392773_NP-1985193000",
+                "skuId": "1985193000",
+                "sku": "452392773_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "3173",
+                "inStock": true,
+                "originalPrice": "3808",
+                "clickTrace": "query:camera;nid:452392773;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:452392773_NP;price:3173;client:desktop;supplier_id:900232016558;biz_source:h5_unknow;slot:37;utlog_bucket_id:470687;asc_category_id:9544;item_id:452392773;sku_id:1985193000;shop_id:143802;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "452392773_NP-1985193000"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F37a86b7dfb159eedc07bc1311a3402e3.png&src=srp_findsimilar&item_id=452392773&sku_id=1985193000&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3173.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/8-6-6-7-7-9-2025-i452392773.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1985193000%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A317300%3BdisplayPrice%3A317300%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=1&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3173&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A452392773%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A452392773_NP%253Bprice%253A3173%253Bclient%253Adesktop%253Bsupplier_id%253A900232016558%253Bbiz_source%253Ah5_unknow%253Bslot%253A37%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A452392773%253Bsku_id%253A1985193000%253Bshop_id%253A143802%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "For Xiaomi Redmi Note 12 Pro Plus Mi 13 12 11 Poco F3 F5 Pro Cartoon Lotso Bear Grip Tok Holder Metal Camera TPU Soft Phone Case",
+                "nid": "453723260",
+                "itemId": "453723260",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/d90439486cfc82ff55fb99f0fc85241d.jpg",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 3,526",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "453723260_NP-1999441590",
+                "skuId": "1999441590",
+                "sku": "453723260_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "3526",
+                "inStock": true,
+                "originalPrice": "4231",
+                "clickTrace": "query:camera;nid:453723260;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:453723260_NP;price:3526;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:38;utlog_bucket_id:470687;asc_category_id:9544;item_id:453723260;sku_id:1999441590;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "453723260_NP-1999441590"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2Fd90439486cfc82ff55fb99f0fc85241d.jpg&src=srp_findsimilar&item_id=453723260&sku_id=1999441590&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3526.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/12-13-12-11-3-5-i453723260.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1999441590%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A352600%3BdisplayPrice%3A352600%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3526&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A453723260%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A453723260_NP%253Bprice%253A3526%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A38%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A453723260%253Bsku_id%253A1999441590%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            },
+            {
+                "name": "3Pcs Rear Protective Glass Camera Case For Xiaomi Redmi Note 12 Pro 4G Note12Pro Plus Note12 Pro+ 5G 12Pro 12S Back Lens Cover",
+                "nid": "453723858",
+                "itemId": "453723858",
+                "icons": [
+                    {
+                        "domClass": "150565",
+                        "type": "img",
+                        "group": "6",
+                        "showType": "0"
+                    }
+                ],
+                "image": "https://static-01.daraz.com.np/p/2aff822d62925e842f3c1ef5559900ba.png",
+                "isSmartImage": false,
+                "originalPriceShow": "",
+                "priceShow": "Rs. 3,340",
+                "ratingScore": "",
+                "review": "",
+                "location": "Overseas",
+                "thumbs": [],
+                "sellerName": "Jiadie",
+                "sellerId": "900282624187",
+                "brandName": "No Brand",
+                "brandId": "39704",
+                "cheapest_sku": "453723858_NP-1999673254",
+                "skuId": "1999673254",
+                "sku": "453723858_NP",
+                "categories": [
+                    2,
+                    9536,
+                    9544
+                ],
+                "price": "3340",
+                "inStock": true,
+                "originalPrice": "4009",
+                "clickTrace": "query:camera;nid:453723858;src:LazadaMainSrp;rn:90e09822f464fde3d360ca2d80c254e2;region:np;sku:453723858_NP;price:3340;client:desktop;supplier_id:900282624187;biz_source:h5_unknow;slot:39;utlog_bucket_id:470687;asc_category_id:9544;item_id:453723858;sku_id:1999673254;shop_id:199791;templateInfo:-1_A3_C#1103_L#",
+                "longImageDisplayable": false,
+                "skus": [
+                    {
+                        "id": "453723858_NP-1999673254"
+                    }
+                ],
+                "promotionId": "",
+                "isSponsored": false,
+                "tItemType": "nt_product",
+                "skuType": "",
+                "adFlag": "0",
+                "directSimilarUrl": "https://native.m.lazada.com/dynamicxresult?item_img=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F2aff822d62925e842f3c1ef5559900ba.png&src=srp_findsimilar&item_id=453723858&sku_id=1999673254&params=%7B%22sub_src%22%3A%22long_press%22%2C%22src%22%3A%22srp_findsimilar%22%7D&m=tpp_findSimilar&q=camera&similarType=findSimilarV1&price=3340.00&spuTriggerItem=0",
+                "gridTitleLine": "2",
+                "isFission": "0",
+                "isBadgeAutoScroll": false,
+                "showCart": false,
+                "showBackIcon": false,
+                "showUnitPrice": false,
+                "itemUrl": "//www.daraz.com.np/products/12-4-12-12-5-12-12-3-i453723858.html",
+                "querystring": "fs_ab=1&priceCompare=skuId%3A1999673254%3Bsource%3Alazada-search-voucher%3Bsn%3A90e09822f464fde3d360ca2d80c254e2%3BoriginPrice%3A334000%3BdisplayPrice%3A334000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1758776871692&c=&ratingscore=&freeshipping=0&source=search&channelLpJumpArgs=&fuse_fs=&search=1&sale=0&price=3.34E%203&review=&location=Overseas&stock=1&lang=en&request_id=90e09822f464fde3d360ca2d80c254e2&clickTrackInfo=query%253Acamera%253Bnid%253A453723858%253Bsrc%253ALazadaMainSrp%253Brn%253A90e09822f464fde3d360ca2d80c254e2%253Bregion%253Anp%253Bsku%253A453723858_NP%253Bprice%253A3340%253Bclient%253Adesktop%253Bsupplier_id%253A900282624187%253Bbiz_source%253Ah5_unknow%253Bslot%253A39%253Butlog_bucket_id%253A470687%253Basc_category_id%253A9544%253Bitem_id%253A453723858%253Bsku_id%253A1999673254%253Bshop_id%253A199791%253BtemplateInfo%253A-1_A3_C%25231103_L%2523"
+            }
+        ],
+        "breadcrumb": [
+            {
+                "url": "https://www.daraz.com.np",
+                "title": "Home"
+            },
+            {
+                "url": "/mobiles-tablets-accessories/",
+                "title": "Mobile Accessories"
+            },
+            {
+                "url": "/phones-tablets/",
+                "title": "Mobiles & Tablets"
+            },
+            {
+                "url": "/mobile-surface-screen-protectors/",
+                "title": "Screen Protectors"
+            },
+            {
+                "title": "Search Results"
+            }
+        ],
+        "sortBar": {
+            "tItemType": "nt_sortbar",
+            "filter": "Filter",
+            "style": "wf",
+            "sortItems": [
+                {
+                    "name": "Popularity",
+                    "tip": "Best Match",
+                    "isActive": "true",
+                    "value": "popularity",
+                    "key": "sort",
+                    "tabName": ""
+                },
+                {
+                    "name": "Price-ASC",
+                    "tip": "Price low to high",
+                    "value": "priceasc",
+                    "key": "sort",
+                    "tabName": ""
+                },
+                {
+                    "name": "Price-DESC",
+                    "tip": "Price high to low",
+                    "value": "pricedesc",
+                    "key": "sort",
+                    "tabName": ""
+                }
+            ],
+            "hiddenLayoutBtn": false,
+            "showFilterBtn": true,
+            "hasFilter": false
+        },
+        "resultTips": {
+            "tItemType": "nt_resulttips",
+            "tips": "Showing results for {$0}",
+            "keywords": [
+                {
+                    "text": "camera"
+                },
+                {
+                    "text": "Screen Protectors"
+                }
+            ]
+        },
+        "linksInfo": [],
+        "LazadaDecoration": {
+            "footer": "%3Cbr%3E%3Ca%20href%3D%22%2Fmobile-surface-screen-protectors%2Fremax%2F%22%20%3ERemax%20Mobile%20Surface%20Screen%20Protectors%3C%2Fa%3E"
+        }
+    },
+    "mainInfo": {
+        "errorMsg": "",
+        "bizCode": 0,
+        "totalResults": "4080",
+        "pageSize": "40",
+        "page": "1",
+        "hiddenLayoutBtn": false,
+        "layoutInfo": {
+            "listHeader": [
+                "didYouMean",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "superStore",
+                "banner",
+                "resultTips",
+                "navCategory",
+                "hotDeal",
+                "emptyResult",
+                "recQuery",
+                "emptyResultBannerTips",
+                "limitedResult",
+                "recommendTitle"
+            ],
+            "stickyHeader": [
+                "reminderBanner"
+            ],
+            "sceneHeader": [],
+            "halfStickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ],
+            "bottomHalfStickyHeader": []
+        },
+        "pageType": "searchList",
+        "gridTitleLine": "2",
+        "trackParams": {
+            "categoryAsc": "9544",
+            "category": "9544"
+        },
+        "userId": "",
+        "cate_id": "5880,5883,9593,10002902",
+        "hyperspaceInfo": "",
+        "currency": "Rs. ",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "isShowFeedbackForm": "false",
+        "showThumbs": "false",
+        "allProductURL": "/all-products/",
+        "addToCartURL": "//cart.daraz.com.np/cart/api/add",
+        "cluster": "fiber2_sg52",
+        "column": 2,
+        "bucketId": "v1",
+        "auctionType": 1,
+        "noMorePages": false,
+        "srpName": "LazadaMainSrp",
+        "params": "{\"src\":\"h5_unknow\"}",
+        "searchScenario": "keyword",
+        "hiddenShopChangeBtn": true,
+        "selectedFilters": {
+            "category": "9544"
+        },
+        "expParams": {
+            "isBadgeAutoScroll": "0",
+            "filterLazyLoad": "0",
+            "enableShortStyle": "0",
+            "enableFeedbackAssistant": "1",
+            "disableScreenSimple": "1",
+            "enableCompactLineHeight": "1",
+            "disableFspImagePreload": "0"
+        },
+        "filterLazyLoad": false,
+        "RN": "90e09822f464fde3d360ca2d80c254e2",
+        "style": "wf",
+        "lang": "en",
+        "venture": "NP",
+        "themes": [
+            {
+                "font-size": "11",
+                "labelMarginLeft": "0",
+                "bgColor": "#c27a9f",
+                "color": "#f5f3f3",
+                "key": "150318",
+                "startColor": "#c27a9f"
+            },
+            {
+                "img": "https://img.lazcdn.com/us/lzd-onepiece/7043a26ec93e68acc9da1a9f19c28f1d1730280969660.png",
+                "width": "270",
+                "labelMarginLeft": "0",
+                "key": "150565",
+                "height": "30"
+            }
+        ],
+        "q": "camera",
+        "rt": {
+            "all": 245
+        },
+        "serverResponseTime": 1758776871,
+        "reqParams": "{\"src\":\"h5_unknow\",\"refer\":\"\",\"scenario\":\"keyword-dynamic\",\"ab_test\":\"BASE:0\"}",
+        "pageTitle": "Mobile Screen Protectors Price in Nepal - Buy Tempered Glass Online - Daraz.com.np"
+    },
+    "seoInfo": {
+        "canonical_tag": "",
+        "category_brand": "9544_0_0_0",
+        "description": "Best deals on mobile display gorilla glass price in Nepal from Daraz np. Shop high quality toughened glass and tuffen glass for mobile at best price in Kathmandu, Biratnagar and across country.",
+        "h1": "",
+        "hreflang_data": "[{\"href\":\"https://www.daraz.pk/mobile-surface-screen-protectors/\",\"lang\":\"en-pk\"},{\"href\":\"https://www.daraz.com.bd/mobile-surface-screen-protectors/\",\"lang\":\"en-bd\"},{\"href\":\"https://www.daraz.lk/mobile-surface-screen-protectors/\",\"lang\":\"en-lk\"},{\"href\":\"https://www.daraz.com.np/mobile-surface-screen-protectors/\",\"lang\":\"en-np\"},{\"href\":\"https://www.shop.com.mm/screen-protectors/\",\"lang\":\"en-mm\"},{\"href\":\"https://www.lazada.sg/screen-protectors/\",\"lang\":\"en-sg\"},{\"href\":\"https://www.lazada.com.my/shop-screen-protectors/\",\"lang\":\"en-my\"},{\"href\":\"https://www.lazada.co.th/shop-screen-protectors/\",\"lang\":\"th-th\"},{\"href\":\"https://www.lazada.co.id/jual-pelindung-layar/\",\"lang\":\"id-id\"},{\"href\":\"https://www.lazada.vn/mieng-dan-man-hinh-dien-thoai/\",\"lang\":\"vi-vn\"},{\"href\":\"https://www.lazada.com.ph/shop-screen-protectors/\",\"lang\":\"en-ph\"}]",
+        "meta_index": "index, follow",
+        "title": "Mobile Screen Protectors Price in Nepal - Buy Tempered Glass Online - Daraz.com.np",
+        "pageTitle": "Mobile Screen Protectors Price in Nepal - Buy Tempered Glass Online - Daraz.com.np",
+        "robotsContent": "index,follow",
+        "canonicalHref": "/mobile-surface-screen-protectors/",
+        "androidDeepLink": "android-app://com.lazada.android/lazada/np/page?url_key=%2Fmobile-surface-screen-protectors%2F%3Fq%3Dcamera&utm_campaign=%2Fmobile-surface-screen-protectors%2F%3Fq%3Dcamera&utm_medium=organic&utm_source=google_app_indexing&utm_from=search",
+        "nextHref": "/mobile-surface-screen-protectors/?page=2&q=camera",
+        "internalLink": [],
+        "itemListSchema": {
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            "name": "Best Selling camera Products",
+            "itemListElement": []
+        },
+        "breadcrumbSchema": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "item": {
+                        "@id": "https://www.daraz.com.np",
+                        "name": "Home"
+                    },
+                    "@type": "ListItem",
+                    "position": 1
+                },
+                {
+                    "item": {
+                        "@id": "https://www.daraz.com.npurl",
+                        "name": "Mobile Accessories"
+                    },
+                    "@type": "ListItem",
+                    "position": 2
+                },
+                {
+                    "item": {
+                        "@id": "https://www.daraz.com.npurl",
+                        "name": "Mobiles & Tablets"
+                    },
+                    "@type": "ListItem",
+                    "position": 3
+                },
+                {
+                    "item": {
+                        "@id": "https://www.daraz.com.npurl",
+                        "name": "Screen Protectors"
+                    },
+                    "@type": "ListItem",
+                    "position": 4
+                }
+            ]
+        },
+        "breadcrumbData": [
+            {
+                "categoryName": "Home",
+                "categoryLink": "https://www.daraz.com.np"
+            },
+            {
+                "categoryName": "Mobile Accessories",
+                "categoryLink": "/mobiles-tablets-accessories/"
+            },
+            {
+                "categoryName": "Mobiles & Tablets",
+                "categoryLink": "/phones-tablets/"
+            },
+            {
+                "categoryName": "Screen Protectors",
+                "categoryLink": "/mobile-surface-screen-protectors/"
+            },
+            {
+                "categoryName": "Search Results"
+            }
+        ]
+    }
+}
