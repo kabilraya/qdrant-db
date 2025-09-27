@@ -32,5 +32,6 @@ def get_chunks_of_items(filename):
     for item in items_list:
         chunks_of_each_docs = chunk_each_docs(item)
         all_chunks.append(chunks_of_each_docs)
+    return all_chunks
 
 
