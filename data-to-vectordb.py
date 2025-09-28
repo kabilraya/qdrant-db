@@ -5,7 +5,7 @@ from chunking_strategy import get_chunks_of_items
 
 #Global Config
 client = QdrantClient(url = "http://localhost:6333")
-encoder = SentenceTransformer("all-MiniLM-L6=v2")
+encoder = SentenceTransformer("all-MiniLM-L6-v2")
 file_name = "camera-screen-guards.json"
 collection_name = "items_retrieval_with_vanilla_rag"
 base_name = os.path.splitext(os.path.basename(file_name))[0]
@@ -39,29 +39,30 @@ def storage_and_payload_creation():
     create_collection()
 
     client.create_payload_index(
-    collection_name = "daraz_items_with_docs",
+    collection_name = collection_name,
     field_name = "chunk_id",
     field_schema = "integer"
     )
 
     client.create_payload_index(
-    collection_name = "daraz_items_with_docs",
+    collection_name = collection_name,
     field_name = "doc_id",
     field_schema = "integer"
     )
     
     client.create_payload_index(
-    collection_name = "daraz_items_with_docs",
+    collection_name = collection_name,
     field_name = "file_name",
     field_schema="keyword"
     )
 
+    #here the offset denotes the last available point
+    #scroll function scrolls in the descending order of the points if available from the info.points_count() 
+    #we get the point.id of the 0th index which is the last point id and increase by 1 to get the lastest available point id
+    
     offset = 0
-
     info = client.get_collection(collection_name=collection_name)
-    final_embeddings,all_chunks = data_embedding()
-    for doc in len(final_embeddings):
-        if(info.points_count != 0):
+    if(info.points_count != 0):
             res, _ = client.scroll(
                 collection_name = collection_name,
                 with_payload=False,
@@ -77,22 +78,34 @@ def storage_and_payload_creation():
                 offset = last_id + 1
             else:
                 offset = 0
-        else:
+    else:
             offset = 0
-        for idx in len(final_embeddings[doc]):
+
+    final_embeddings,all_chunks = data_embedding()
+    print(len(final_embeddings), len(all_chunks))
+    for doc in range(len(final_embeddings)):
+        for idx in range(len(final_embeddings[doc])):
             client.upsert(
                 collection_name = collection_name,
                 points = [
                     models.PointStruct(
-                        id = idx+offset,
+                        id = offset,
                         payload = {
                             "doc_id" : doc,
-                            "chunk_id": idx + offset,
+                            "chunk_id": offset,
                             "chunk": all_chunks[doc][idx],
                             "file_name" : base_name
                         },
-                        vector = final_embeddings[doc][idx]
+                        vector = {"dense":final_embeddings[doc][idx].tolist()}
                     )
                 ]
             )
+            offset+=1
+if __name__ == "__main__":
+    print(f"Creating a collection and storing the points from the file {file_name}")
 
+    #calling the function
+
+    storage_and_payload_creation()
+
+    print("Successfull")
