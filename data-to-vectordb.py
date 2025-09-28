@@ -6,7 +6,7 @@ from chunking_strategy import get_chunks_of_items
 #Global Config
 client = QdrantClient(url = "http://localhost:6333")
 encoder = SentenceTransformer("all-MiniLM-L6-v2")
-file_name = "camera-screen-guards.json"
+file_name = "phone-camera-flash-lights.json"
 collection_name = "items_retrieval_with_vanilla_rag"
 base_name = os.path.splitext(os.path.basename(file_name))[0]
 
@@ -36,7 +36,9 @@ def create_collection():
     )
 
 def storage_and_payload_creation():
-    create_collection()
+    exists_ = client.collection_exists(collection_name=collection_name)
+    if not exists_:
+        create_collection()
 
     client.create_payload_index(
     collection_name = collection_name,
@@ -59,13 +61,16 @@ def storage_and_payload_creation():
     #here the offset denotes the last available point
     #scroll function scrolls in the descending order of the points if available from the info.points_count() 
     #we get the point.id of the 0th index which is the last point id and increase by 1 to get the lastest available point id
-    
+
     offset = 0
     info = client.get_collection(collection_name=collection_name)
-    if(info.points_count != 0):
+    file_number = 0
+    counts = info.points_count
+    
+    if(counts != 0):
             res, _ = client.scroll(
                 collection_name = collection_name,
-                with_payload=False,
+                with_payload=True,
                 with_vectors = False,
                 limit = 1,
                 order_by = {
@@ -74,12 +79,15 @@ def storage_and_payload_creation():
                 }
             )
             if(res):
+                file_number = res[0].payload.get("doc_id")[0]
+                file_number = file_number+1
                 last_id = res[0].id
                 offset = last_id + 1
             else:
                 offset = 0
     else:
             offset = 0
+            file_number = 0
 
     final_embeddings,all_chunks = data_embedding()
     print(len(final_embeddings), len(all_chunks))
@@ -91,7 +99,7 @@ def storage_and_payload_creation():
                     models.PointStruct(
                         id = offset,
                         payload = {
-                            "doc_id" : doc,
+                            "doc_id" : (file_number,doc),
                             "chunk_id": offset,
                             "chunk": all_chunks[doc][idx],
                             "file_name" : base_name
