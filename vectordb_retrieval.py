@@ -17,7 +17,7 @@ def query_retrieval(query):
 
 if __name__ == "__main__":
     print("The Retrieved Points are")
-    points = query_retrieval(query = "Cizzy Canon Logo Lens Cap 62mm Use for 62mm lenses,tamron 70-300, tamron 18-270vc pzd, tamron18-250, More 62mm Lenses")
+    points = query_retrieval(query = "phone case for vivo")
     for point in points:
         print("score = ",point.score, "Point_id=", point.id, "doc_id = ", point.payload.get("doc_id"), "file_name = ",point.payload.get("file_name"), "chunk_id = " , point.payload.get("chunk_id"))
     

@@ -35,3 +35,10 @@ def get_chunks_of_items(filename):
     return all_chunks
 
 
+def say_hello(message):
+    ans = message
+    return ans
+
+input = input("Enter text:")
+greeting = say_hello(input)
+print(greeting)
